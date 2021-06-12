@@ -1,0 +1,15 @@
+understand the code and work flow
+other packages used here are
+-json server(used as a dummy backend server + db)
+-react-router-dom(used for routing and linking)
+
+need to learn and understand Hooks,promises,async functions,await and other js stuff.
+
+commands to run for the entire project to run
+"npm start" - starts the react app
+"npm run server" - starts the json sever
+
+
+it is worthwhile to rewatch this video a number of times to understand how react works
+and also learn how other packages are used for smoother working of the application.
+
